@@ -79,3 +79,6 @@ def on_forever2():
         # Button B pressed
         radio.send_value("Pin13", 0)
 basic.forever(on_forever2)
+
+print("Hello World")
+
