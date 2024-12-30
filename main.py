@@ -81,4 +81,5 @@ def on_forever2():
 basic.forever(on_forever2)
 
 print("Hello World")
+print("Hello World")
 
